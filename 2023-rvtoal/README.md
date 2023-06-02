@@ -1,6 +1,6 @@
 # Rust vs Typescript on AWS Lambda / code
 
-This is the code for the blog article at https://example.com/foobar
+This is the code for the blog article at https://www.nordhero.com/posts/rust-vs-typescript-on-aws-lambda/ 
 
 # Directory structure
 
